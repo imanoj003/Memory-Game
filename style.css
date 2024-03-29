@@ -1,0 +1,15 @@
+#grid {
+
+    height: 395px;
+    width: 560px;
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
+.cards {
+    height: 135px;
+    width: 135px;
+    border: 0px;
+
+}
