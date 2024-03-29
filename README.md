@@ -22,6 +22,12 @@ Memory Game is a classic concentration game where you need to match pairs of car
 - Provides feedback on the number of matches found.
 - Congratulatory message upon successfully matching all pairs.
 
+## Built With
+
+- HTML
+- CSS
+- JavaScript
+
 
 
 
